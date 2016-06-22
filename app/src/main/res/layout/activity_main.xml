@@ -9,14 +9,6 @@
         android:layout_height="wrap_content"
         android:text="@string/hello_world" />
 
-    <ToggleButton
-        android:id="@+id/toggleButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="129dp"
-        android:text="New ToggleButton" />
 
 
 
