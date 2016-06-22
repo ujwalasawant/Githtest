@@ -18,14 +18,7 @@
         android:layout_marginTop="129dp"
         android:text="New ToggleButton" />
 
-    <RadioButton
-        android:id="@+id/radioButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerVertical="true"
-        android:layout_toEndOf="@+id/textView"
-        android:layout_toRightOf="@+id/textView"
-        android:text="New RadioButton" />
+
 
 
 
